@@ -1,0 +1,1020 @@
+----------     GPU     ----------
+number of platforms is 2
+platform name is ARM Platform
+platform version is OpenCL 1.2 v1.r17p0-01rel0.a881d28363cdb20f0017ed13c980967e
+number of devices is 0
+device name is Mali-T628
+
+Init Array 	 runtime:0.2679650784
+Read Kernel  runtime:0.0001630783
+Kernels Init runtime:0.0688240528
+Memory Init  runtime:0.2551190853
+Prog Load    runtime:0.0939221382
+
+Kernels 	 runtime:0.3454090480:0.0614502540
+
+Launch Kernl runtime:0.4083609581
+Clean  up    runtime:0.0004811287
+
+---------Sequential CPU----------
+
+Sequential 	 runtime:0.0000000000
+
+----------     ALL     ----------
+
+CPU Kernel 	 runtime:0.0000000000
+GPU Kernel 	 runtime:0.4083609581
+Sequential 	 runtime:0.0000000000
+
+Data Alloc   runtime:0.0002110004
+
+Non-Matching CPU-GPU Outputs Beyond Error Threshold of 0.05 Percent: 8190
+
+Free memory  runtime:	0.0223081112
+===================================
+----------     GPU     ----------
+number of platforms is 2
+platform name is ARM Platform
+platform version is OpenCL 1.2 v1.r17p0-01rel0.a881d28363cdb20f0017ed13c980967e
+number of devices is 0
+device name is Mali-T628
+
+Init Array 	 runtime:0.2825229168
+Read Kernel  runtime:0.0001258850
+Kernels Init runtime:0.0688982010
+Memory Init  runtime:0.2458269596
+Prog Load    runtime:0.0937638283
+
+Kernels 	 runtime:0.3297501800:0.0621912100
+
+Launch Kernl runtime:0.3934409618
+Clean  up    runtime:0.0004811287
+
+---------Sequential CPU----------
+
+Sequential 	 runtime:0.0000000000
+
+----------     ALL     ----------
+
+CPU Kernel 	 runtime:0.0000000000
+GPU Kernel 	 runtime:0.3934409618
+Sequential 	 runtime:0.0000000000
+
+Data Alloc   runtime:0.0002269745
+
+Non-Matching CPU-GPU Outputs Beyond Error Threshold of 0.05 Percent: 8190
+
+Free memory  runtime:	0.0225081444
+===================================
+----------     GPU     ----------
+number of platforms is 2
+platform name is ARM Platform
+platform version is OpenCL 1.2 v1.r17p0-01rel0.a881d28363cdb20f0017ed13c980967e
+number of devices is 0
+device name is Mali-T628
+
+Init Array 	 runtime:0.2637250423
+Read Kernel  runtime:0.0001640320
+Kernels Init runtime:0.0697929859
+Memory Init  runtime:0.2578210831
+Prog Load    runtime:0.0941610336
+
+Kernels 	 runtime:0.3541257600:0.0628753330
+
+Launch Kernl runtime:0.4185590744
+Clean  up    runtime:0.0004749298
+
+---------Sequential CPU----------
+
+Sequential 	 runtime:0.0000000000
+
+----------     ALL     ----------
+
+CPU Kernel 	 runtime:0.0000000000
+GPU Kernel 	 runtime:0.4185590744
+Sequential 	 runtime:0.0000000000
+
+Data Alloc   runtime:0.0001811981
+
+Non-Matching CPU-GPU Outputs Beyond Error Threshold of 0.05 Percent: 8190
+
+Free memory  runtime:	0.0222868919
+===================================
+----------     GPU     ----------
+number of platforms is 2
+platform name is ARM Platform
+platform version is OpenCL 1.2 v1.r17p0-01rel0.a881d28363cdb20f0017ed13c980967e
+number of devices is 0
+device name is Mali-T628
+
+Init Array 	 runtime:0.2679488659
+Read Kernel  runtime:0.0001208782
+Kernels Init runtime:0.0687909126
+Memory Init  runtime:0.2418470383
+Prog Load    runtime:0.0951569080
+
+Kernels 	 runtime:0.3335760140:0.0615175040
+
+Launch Kernl runtime:0.3966450691
+Clean  up    runtime:0.0004911423
+
+---------Sequential CPU----------
+
+Sequential 	 runtime:0.0000000000
+
+----------     ALL     ----------
+
+CPU Kernel 	 runtime:0.0000000000
+GPU Kernel 	 runtime:0.3966450691
+Sequential 	 runtime:0.0000000000
+
+Data Alloc   runtime:0.0002551079
+
+Non-Matching CPU-GPU Outputs Beyond Error Threshold of 0.05 Percent: 8190
+
+Free memory  runtime:	0.0223710537
+===================================
+----------     GPU     ----------
+number of platforms is 2
+platform name is ARM Platform
+platform version is OpenCL 1.2 v1.r17p0-01rel0.a881d28363cdb20f0017ed13c980967e
+number of devices is 0
+device name is Mali-T628
+
+Init Array 	 runtime:0.2572119236
+Read Kernel  runtime:0.0001220703
+Kernels Init runtime:0.0683128834
+Memory Init  runtime:0.2416322231
+Prog Load    runtime:0.0935750008
+
+Kernels 	 runtime:0.3293916260:0.0617888360
+
+Launch Kernl runtime:0.3927228451
+Clean  up    runtime:0.0005080700
+
+---------Sequential CPU----------
+
+Sequential 	 runtime:0.0000000000
+
+----------     ALL     ----------
+
+CPU Kernel 	 runtime:0.0000000000
+GPU Kernel 	 runtime:0.3927228451
+Sequential 	 runtime:0.0000000000
+
+Data Alloc   runtime:0.0002589226
+
+Non-Matching CPU-GPU Outputs Beyond Error Threshold of 0.05 Percent: 8190
+
+Free memory  runtime:	0.0223231316
+===================================
+----------     GPU     ----------
+number of platforms is 2
+platform name is ARM Platform
+platform version is OpenCL 1.2 v1.r17p0-01rel0.a881d28363cdb20f0017ed13c980967e
+number of devices is 0
+device name is Mali-T628
+
+Init Array 	 runtime:0.2570331097
+Read Kernel  runtime:0.0001590252
+Kernels Init runtime:0.0684309006
+Memory Init  runtime:0.2472491264
+Prog Load    runtime:0.0939550400
+
+Kernels 	 runtime:0.3374209700:0.0618867500
+
+Launch Kernl runtime:0.4007430077
+Clean  up    runtime:0.0004489422
+
+---------Sequential CPU----------
+
+Sequential 	 runtime:0.0000000000
+
+----------     ALL     ----------
+
+CPU Kernel 	 runtime:0.0000000000
+GPU Kernel 	 runtime:0.4007430077
+Sequential 	 runtime:0.0000000000
+
+Data Alloc   runtime:0.0002288818
+
+Non-Matching CPU-GPU Outputs Beyond Error Threshold of 0.05 Percent: 8190
+
+Free memory  runtime:	0.0225150585
+===================================
+----------     GPU     ----------
+number of platforms is 2
+platform name is ARM Platform
+platform version is OpenCL 1.2 v1.r17p0-01rel0.a881d28363cdb20f0017ed13c980967e
+number of devices is 0
+device name is Mali-T628
+
+Init Array 	 runtime:0.2596950531
+Read Kernel  runtime:0.0001151562
+Kernels Init runtime:0.0680630207
+Memory Init  runtime:0.2417588234
+Prog Load    runtime:0.0932848454
+
+Kernels 	 runtime:0.3316368340:0.0614233750
+
+Launch Kernl runtime:0.3945300579
+Clean  up    runtime:0.0004851818
+
+---------Sequential CPU----------
+
+Sequential 	 runtime:0.0000000000
+
+----------     ALL     ----------
+
+CPU Kernel 	 runtime:0.0000000000
+GPU Kernel 	 runtime:0.3945300579
+Sequential 	 runtime:0.0000000000
+
+Data Alloc   runtime:0.0002539158
+
+Non-Matching CPU-GPU Outputs Beyond Error Threshold of 0.05 Percent: 8190
+
+Free memory  runtime:	0.0222878456
+===================================
+----------     GPU     ----------
+number of platforms is 2
+platform name is ARM Platform
+platform version is OpenCL 1.2 v1.r17p0-01rel0.a881d28363cdb20f0017ed13c980967e
+number of devices is 0
+device name is Mali-T628
+
+Init Array 	 runtime:0.2707200050
+Read Kernel  runtime:0.0001230240
+Kernels Init runtime:0.0683331490
+Memory Init  runtime:0.2428278923
+Prog Load    runtime:0.0938019753
+
+Kernels 	 runtime:0.3335040550:0.0633737090
+
+Launch Kernl runtime:0.3983418941
+Clean  up    runtime:0.0004739761
+
+---------Sequential CPU----------
+
+Sequential 	 runtime:0.0000000000
+
+----------     ALL     ----------
+
+CPU Kernel 	 runtime:0.0000000000
+GPU Kernel 	 runtime:0.3983418941
+Sequential 	 runtime:0.0000000000
+
+Data Alloc   runtime:0.0002269745
+
+Non-Matching CPU-GPU Outputs Beyond Error Threshold of 0.05 Percent: 8190
+
+Free memory  runtime:	0.0223479271
+===================================
+----------     GPU     ----------
+number of platforms is 2
+platform name is ARM Platform
+platform version is OpenCL 1.2 v1.r17p0-01rel0.a881d28363cdb20f0017ed13c980967e
+number of devices is 0
+device name is Mali-T628
+
+Init Array 	 runtime:0.2601888180
+Read Kernel  runtime:0.0001540184
+Kernels Init runtime:0.0682590008
+Memory Init  runtime:0.2652790546
+Prog Load    runtime:0.0937700272
+
+Kernels 	 runtime:0.3355250110:0.0623212920
+
+Launch Kernl runtime:0.3993721008
+Clean  up    runtime:0.0004670620
+
+---------Sequential CPU----------
+
+Sequential 	 runtime:0.0000000000
+
+----------     ALL     ----------
+
+CPU Kernel 	 runtime:0.0000000000
+GPU Kernel 	 runtime:0.3993721008
+Sequential 	 runtime:0.0000000000
+
+Data Alloc   runtime:0.0001819134
+
+Non-Matching CPU-GPU Outputs Beyond Error Threshold of 0.05 Percent: 8190
+
+Free memory  runtime:	0.0223288536
+===================================
+----------     GPU     ----------
+number of platforms is 2
+platform name is ARM Platform
+platform version is OpenCL 1.2 v1.r17p0-01rel0.a881d28363cdb20f0017ed13c980967e
+number of devices is 0
+device name is Mali-T628
+
+Init Array 	 runtime:0.2599630356
+Read Kernel  runtime:0.0001668930
+Kernels Init runtime:0.0679781437
+Memory Init  runtime:0.2417190075
+Prog Load    runtime:0.0954339504
+
+Kernels 	 runtime:0.3308726380:0.0621233770
+
+Launch Kernl runtime:0.3944520950
+Clean  up    runtime:0.0005550385
+
+---------Sequential CPU----------
+
+Sequential 	 runtime:0.0000000000
+
+----------     ALL     ----------
+
+CPU Kernel 	 runtime:0.0000000000
+GPU Kernel 	 runtime:0.3944520950
+Sequential 	 runtime:0.0000000000
+
+Data Alloc   runtime:0.0002200603
+
+Non-Matching CPU-GPU Outputs Beyond Error Threshold of 0.05 Percent: 8190
+
+Free memory  runtime:	0.0224139690
+===================================
+----------     GPU     ----------
+number of platforms is 2
+platform name is ARM Platform
+platform version is OpenCL 1.2 v1.r17p0-01rel0.a881d28363cdb20f0017ed13c980967e
+number of devices is 0
+device name is Mali-T628
+
+Init Array 	 runtime:0.2624931335
+Read Kernel  runtime:0.0001621246
+Kernels Init runtime:0.0681090355
+Memory Init  runtime:0.2446510792
+Prog Load    runtime:0.0934221745
+
+Kernels 	 runtime:0.3365308040:0.0623083330
+
+Launch Kernl runtime:0.4003500938
+Clean  up    runtime:0.0005068779
+
+---------Sequential CPU----------
+
+Sequential 	 runtime:0.0000000000
+
+----------     ALL     ----------
+
+CPU Kernel 	 runtime:0.0000000000
+GPU Kernel 	 runtime:0.4003500938
+Sequential 	 runtime:0.0000000000
+
+Data Alloc   runtime:0.0002191067
+
+Non-Matching CPU-GPU Outputs Beyond Error Threshold of 0.05 Percent: 8190
+
+Free memory  runtime:	0.0223660469
+===================================
+----------     GPU     ----------
+number of platforms is 2
+platform name is ARM Platform
+platform version is OpenCL 1.2 v1.r17p0-01rel0.a881d28363cdb20f0017ed13c980967e
+number of devices is 0
+device name is Mali-T628
+
+Init Array 	 runtime:0.2655539513
+Read Kernel  runtime:0.0001711845
+Kernels Init runtime:0.0693049431
+Memory Init  runtime:0.2424418926
+Prog Load    runtime:0.0938639641
+
+Kernels 	 runtime:0.3541597580:0.0632408770
+
+Launch Kernl runtime:0.4188690186
+Clean  up    runtime:0.0005102158
+
+---------Sequential CPU----------
+
+Sequential 	 runtime:0.0000000000
+
+----------     ALL     ----------
+
+CPU Kernel 	 runtime:0.0000000000
+GPU Kernel 	 runtime:0.4188690186
+Sequential 	 runtime:0.0000000000
+
+Data Alloc   runtime:0.0001921654
+
+Non-Matching CPU-GPU Outputs Beyond Error Threshold of 0.05 Percent: 8190
+
+Free memory  runtime:	0.0225160122
+===================================
+----------     GPU     ----------
+number of platforms is 2
+platform name is ARM Platform
+platform version is OpenCL 1.2 v1.r17p0-01rel0.a881d28363cdb20f0017ed13c980967e
+number of devices is 0
+device name is Mali-T628
+
+Init Array 	 runtime:0.2632389069
+Read Kernel  runtime:0.0001180172
+Kernels Init runtime:0.0680630207
+Memory Init  runtime:0.2535731792
+Prog Load    runtime:0.0937528610
+
+Kernels 	 runtime:0.3519782110:0.0622971310
+
+Launch Kernl runtime:0.4158539772
+Clean  up    runtime:0.0004549026
+
+---------Sequential CPU----------
+
+Sequential 	 runtime:0.0000000000
+
+----------     ALL     ----------
+
+CPU Kernel 	 runtime:0.0000000000
+GPU Kernel 	 runtime:0.4158539772
+Sequential 	 runtime:0.0000000000
+
+Data Alloc   runtime:0.0002601147
+
+Non-Matching CPU-GPU Outputs Beyond Error Threshold of 0.05 Percent: 8190
+
+Free memory  runtime:	0.0223660469
+===================================
+----------     GPU     ----------
+number of platforms is 2
+platform name is ARM Platform
+platform version is OpenCL 1.2 v1.r17p0-01rel0.a881d28363cdb20f0017ed13c980967e
+number of devices is 0
+device name is Mali-T628
+
+Init Array 	 runtime:0.2716488838
+Read Kernel  runtime:0.0001659393
+Kernels Init runtime:0.0687630177
+Memory Init  runtime:0.2443709373
+Prog Load    runtime:0.0938007832
+
+Kernels 	 runtime:0.3294683390:0.0616666250
+
+Launch Kernl runtime:0.3925659657
+Clean  up    runtime:0.0004451275
+
+---------Sequential CPU----------
+
+Sequential 	 runtime:0.0000000000
+
+----------     ALL     ----------
+
+CPU Kernel 	 runtime:0.0000000000
+GPU Kernel 	 runtime:0.3925659657
+Sequential 	 runtime:0.0000000000
+
+Data Alloc   runtime:0.0002200603
+
+Non-Matching CPU-GPU Outputs Beyond Error Threshold of 0.05 Percent: 8190
+
+Free memory  runtime:	0.0224218369
+===================================
+----------     GPU     ----------
+number of platforms is 2
+platform name is ARM Platform
+platform version is OpenCL 1.2 v1.r17p0-01rel0.a881d28363cdb20f0017ed13c980967e
+number of devices is 0
+device name is Mali-T628
+
+Init Array 	 runtime:0.2624909878
+Read Kernel  runtime:0.0001709461
+Kernels Init runtime:0.0688350201
+Memory Init  runtime:0.2611918449
+Prog Load    runtime:0.0936460495
+
+Kernels 	 runtime:0.3424093430:0.0639698310
+
+Launch Kernl runtime:0.4078559875
+Clean  up    runtime:0.0004560947
+
+---------Sequential CPU----------
+
+Sequential 	 runtime:0.0000000000
+
+----------     ALL     ----------
+
+CPU Kernel 	 runtime:0.0000000000
+GPU Kernel 	 runtime:0.4078559875
+Sequential 	 runtime:0.0000000000
+
+Data Alloc   runtime:0.0002179146
+
+Non-Matching CPU-GPU Outputs Beyond Error Threshold of 0.05 Percent: 8190
+
+Free memory  runtime:	0.0222911835
+===================================
+----------     GPU     ----------
+number of platforms is 2
+platform name is ARM Platform
+platform version is OpenCL 1.2 v1.r17p0-01rel0.a881d28363cdb20f0017ed13c980967e
+number of devices is 0
+device name is Mali-T628
+
+Init Array 	 runtime:0.2627248764
+Read Kernel  runtime:0.0001609325
+Kernels Init runtime:0.0695018768
+Memory Init  runtime:0.2458541393
+Prog Load    runtime:0.0964109898
+
+Kernels 	 runtime:0.3330593060:0.0622398750
+
+Launch Kernl runtime:0.3970570564
+Clean  up    runtime:0.0005729198
+
+---------Sequential CPU----------
+
+Sequential 	 runtime:0.0000000000
+
+----------     ALL     ----------
+
+CPU Kernel 	 runtime:0.0000000000
+GPU Kernel 	 runtime:0.3970570564
+Sequential 	 runtime:0.0000000000
+
+Data Alloc   runtime:0.0002210140
+
+Non-Matching CPU-GPU Outputs Beyond Error Threshold of 0.05 Percent: 8190
+
+Free memory  runtime:	0.0223419666
+===================================
+----------     GPU     ----------
+number of platforms is 2
+platform name is ARM Platform
+platform version is OpenCL 1.2 v1.r17p0-01rel0.a881d28363cdb20f0017ed13c980967e
+number of devices is 0
+device name is Mali-T628
+
+Init Array 	 runtime:0.2596898079
+Read Kernel  runtime:0.0001630783
+Kernels Init runtime:0.0682339668
+Memory Init  runtime:0.2490007877
+Prog Load    runtime:0.0935580730
+
+Kernels 	 runtime:0.3475755050:0.0621864170
+
+Launch Kernl runtime:0.4112730026
+Clean  up    runtime:0.0005099773
+
+---------Sequential CPU----------
+
+Sequential 	 runtime:0.0000000000
+
+----------     ALL     ----------
+
+CPU Kernel 	 runtime:0.0000000000
+GPU Kernel 	 runtime:0.4112730026
+Sequential 	 runtime:0.0000000000
+
+Data Alloc   runtime:0.0001890659
+
+Non-Matching CPU-GPU Outputs Beyond Error Threshold of 0.05 Percent: 8190
+
+Free memory  runtime:	0.0222671032
+===================================
+----------     GPU     ----------
+number of platforms is 2
+platform name is ARM Platform
+platform version is OpenCL 1.2 v1.r17p0-01rel0.a881d28363cdb20f0017ed13c980967e
+number of devices is 0
+device name is Mali-T628
+
+Init Array 	 runtime:0.2575540543
+Read Kernel  runtime:0.0001640320
+Kernels Init runtime:0.0678689480
+Memory Init  runtime:0.2403779030
+Prog Load    runtime:0.0933549404
+
+Kernels 	 runtime:0.3375354630:0.0625576250
+
+Launch Kernl runtime:0.4016380310
+Clean  up    runtime:0.0004651546
+
+---------Sequential CPU----------
+
+Sequential 	 runtime:0.0000000000
+
+----------     ALL     ----------
+
+CPU Kernel 	 runtime:0.0000000000
+GPU Kernel 	 runtime:0.4016380310
+Sequential 	 runtime:0.0000000000
+
+Data Alloc   runtime:0.0002200603
+
+Non-Matching CPU-GPU Outputs Beyond Error Threshold of 0.05 Percent: 8190
+
+Free memory  runtime:	0.0230381489
+===================================
+----------     GPU     ----------
+number of platforms is 2
+platform name is ARM Platform
+platform version is OpenCL 1.2 v1.r17p0-01rel0.a881d28363cdb20f0017ed13c980967e
+number of devices is 0
+device name is Mali-T628
+
+Init Array 	 runtime:0.2564890385
+Read Kernel  runtime:0.0001130104
+Kernels Init runtime:0.0683870316
+Memory Init  runtime:0.2412679195
+Prog Load    runtime:0.0935959816
+
+Kernels 	 runtime:0.3298813830:0.0614896680
+
+Launch Kernl runtime:0.3928308487
+Clean  up    runtime:0.0004839897
+
+---------Sequential CPU----------
+
+Sequential 	 runtime:0.0000000000
+
+----------     ALL     ----------
+
+CPU Kernel 	 runtime:0.0000000000
+GPU Kernel 	 runtime:0.3928308487
+Sequential 	 runtime:0.0000000000
+
+Data Alloc   runtime:0.0002560616
+
+Non-Matching CPU-GPU Outputs Beyond Error Threshold of 0.05 Percent: 8190
+
+Free memory  runtime:	0.0222458839
+===================================
+----------     GPU     ----------
+number of platforms is 2
+platform name is ARM Platform
+platform version is OpenCL 1.2 v1.r17p0-01rel0.a881d28363cdb20f0017ed13c980967e
+number of devices is 0
+device name is Mali-T628
+
+Init Array 	 runtime:0.2878060341
+Read Kernel  runtime:0.0001649857
+Kernels Init runtime:0.0685718060
+Memory Init  runtime:0.2420079708
+Prog Load    runtime:0.0939061642
+
+Kernels 	 runtime:0.3425809240:0.0634135840
+
+Launch Kernl runtime:0.4074461460
+Clean  up    runtime:0.0004570484
+
+---------Sequential CPU----------
+
+Sequential 	 runtime:0.0000000000
+
+----------     ALL     ----------
+
+CPU Kernel 	 runtime:0.0000000000
+GPU Kernel 	 runtime:0.4074461460
+Sequential 	 runtime:0.0000000000
+
+Data Alloc   runtime:0.0001828671
+
+Non-Matching CPU-GPU Outputs Beyond Error Threshold of 0.05 Percent: 8190
+
+Free memory  runtime:	0.0224468708
+===================================
+----------     GPU     ----------
+number of platforms is 2
+platform name is ARM Platform
+platform version is OpenCL 1.2 v1.r17p0-01rel0.a881d28363cdb20f0017ed13c980967e
+number of devices is 0
+device name is Mali-T628
+
+Init Array 	 runtime:0.2585918903
+Read Kernel  runtime:0.0001640320
+Kernels Init runtime:0.0689189434
+Memory Init  runtime:0.2485518456
+Prog Load    runtime:0.0942969322
+
+Kernels 	 runtime:0.3322540850:0.0625150440
+
+Launch Kernl runtime:0.3963479996
+Clean  up    runtime:0.0004930496
+
+---------Sequential CPU----------
+
+Sequential 	 runtime:0.0000000000
+
+----------     ALL     ----------
+
+CPU Kernel 	 runtime:0.0000000000
+GPU Kernel 	 runtime:0.3963479996
+Sequential 	 runtime:0.0000000000
+
+Data Alloc   runtime:0.0001990795
+
+Non-Matching CPU-GPU Outputs Beyond Error Threshold of 0.05 Percent: 8190
+
+Free memory  runtime:	0.0227260590
+===================================
+----------     GPU     ----------
+number of platforms is 2
+platform name is ARM Platform
+platform version is OpenCL 1.2 v1.r17p0-01rel0.a881d28363cdb20f0017ed13c980967e
+number of devices is 0
+device name is Mali-T628
+
+Init Array 	 runtime:0.2606160641
+Read Kernel  runtime:0.0001630783
+Kernels Init runtime:0.0681128502
+Memory Init  runtime:0.2521119118
+Prog Load    runtime:0.0963799953
+
+Kernels 	 runtime:0.3316549170:0.0623854570
+
+Launch Kernl runtime:0.3956880569
+Clean  up    runtime:0.0005187988
+
+---------Sequential CPU----------
+
+Sequential 	 runtime:0.0000000000
+
+----------     ALL     ----------
+
+CPU Kernel 	 runtime:0.0000000000
+GPU Kernel 	 runtime:0.3956880569
+Sequential 	 runtime:0.0000000000
+
+Data Alloc   runtime:0.0001909733
+
+Non-Matching CPU-GPU Outputs Beyond Error Threshold of 0.05 Percent: 8190
+
+Free memory  runtime:	0.0222880840
+===================================
+----------     GPU     ----------
+number of platforms is 2
+platform name is ARM Platform
+platform version is OpenCL 1.2 v1.r17p0-01rel0.a881d28363cdb20f0017ed13c980967e
+number of devices is 0
+device name is Mali-T628
+
+Init Array 	 runtime:0.2586369514
+Read Kernel  runtime:0.0001680851
+Kernels Init runtime:0.0688800812
+Memory Init  runtime:0.2419800758
+Prog Load    runtime:0.0932240486
+
+Kernels 	 runtime:0.3385671670:0.0618562930
+
+Launch Kernl runtime:0.4020628929
+Clean  up    runtime:0.0005390644
+
+---------Sequential CPU----------
+
+Sequential 	 runtime:0.0000000000
+
+----------     ALL     ----------
+
+CPU Kernel 	 runtime:0.0000000000
+GPU Kernel 	 runtime:0.4020628929
+Sequential 	 runtime:0.0000000000
+
+Data Alloc   runtime:0.0002219677
+
+Non-Matching CPU-GPU Outputs Beyond Error Threshold of 0.05 Percent: 8190
+
+Free memory  runtime:	0.0223150253
+===================================
+----------     GPU     ----------
+number of platforms is 2
+platform name is ARM Platform
+platform version is OpenCL 1.2 v1.r17p0-01rel0.a881d28363cdb20f0017ed13c980967e
+number of devices is 0
+device name is Mali-T628
+
+Init Array 	 runtime:0.2630348206
+Read Kernel  runtime:0.0001170635
+Kernels Init runtime:0.0682499409
+Memory Init  runtime:0.2430069447
+Prog Load    runtime:0.0932419300
+
+Kernels 	 runtime:0.3365078750:0.0621552510
+
+Launch Kernl runtime:0.4001262188
+Clean  up    runtime:0.0004930496
+
+---------Sequential CPU----------
+
+Sequential 	 runtime:0.0000000000
+
+----------     ALL     ----------
+
+CPU Kernel 	 runtime:0.0000000000
+GPU Kernel 	 runtime:0.4001262188
+Sequential 	 runtime:0.0000000000
+
+Data Alloc   runtime:0.0002570152
+
+Non-Matching CPU-GPU Outputs Beyond Error Threshold of 0.05 Percent: 8190
+
+Free memory  runtime:	0.0224039555
+===================================
+----------     GPU     ----------
+number of platforms is 2
+platform name is ARM Platform
+platform version is OpenCL 1.2 v1.r17p0-01rel0.a881d28363cdb20f0017ed13c980967e
+number of devices is 0
+device name is Mali-T628
+
+Init Array 	 runtime:0.2709069252
+Read Kernel  runtime:0.0001699924
+Kernels Init runtime:0.0690820217
+Memory Init  runtime:0.2438979149
+Prog Load    runtime:0.0939228535
+
+Kernels 	 runtime:0.3335405420:0.0615986260
+
+Launch Kernl runtime:0.3965761662
+Clean  up    runtime:0.0004668236
+
+---------Sequential CPU----------
+
+Sequential 	 runtime:0.0000000000
+
+----------     ALL     ----------
+
+CPU Kernel 	 runtime:0.0000000000
+GPU Kernel 	 runtime:0.3965761662
+Sequential 	 runtime:0.0000000000
+
+Data Alloc   runtime:0.0001831055
+
+Non-Matching CPU-GPU Outputs Beyond Error Threshold of 0.05 Percent: 8190
+
+Free memory  runtime:	0.0223932266
+===================================
+----------     GPU     ----------
+number of platforms is 2
+platform name is ARM Platform
+platform version is OpenCL 1.2 v1.r17p0-01rel0.a881d28363cdb20f0017ed13c980967e
+number of devices is 0
+device name is Mali-T628
+
+Init Array 	 runtime:0.2977969646
+Read Kernel  runtime:0.0001277924
+Kernels Init runtime:0.0699839592
+Memory Init  runtime:0.2596271038
+Prog Load    runtime:0.0939681530
+
+Kernels 	 runtime:0.3564395470:0.0623108330
+
+Launch Kernl runtime:0.4201929569
+Clean  up    runtime:0.0004529953
+
+---------Sequential CPU----------
+
+Sequential 	 runtime:0.0000000000
+
+----------     ALL     ----------
+
+CPU Kernel 	 runtime:0.0000000000
+GPU Kernel 	 runtime:0.4201929569
+Sequential 	 runtime:0.0000000000
+
+Data Alloc   runtime:0.0002720356
+
+Non-Matching CPU-GPU Outputs Beyond Error Threshold of 0.05 Percent: 8190
+
+Free memory  runtime:	0.0225529671
+===================================
+----------     GPU     ----------
+number of platforms is 2
+platform name is ARM Platform
+platform version is OpenCL 1.2 v1.r17p0-01rel0.a881d28363cdb20f0017ed13c980967e
+number of devices is 0
+device name is Mali-T628
+
+Init Array 	 runtime:0.2745559216
+Read Kernel  runtime:0.0001289845
+Kernels Init runtime:0.0719900131
+Memory Init  runtime:0.2608330250
+Prog Load    runtime:0.0937709808
+
+Kernels 	 runtime:0.3556274600:0.0621509610
+
+Launch Kernl runtime:0.4192931652
+Clean  up    runtime:0.0005009174
+
+---------Sequential CPU----------
+
+Sequential 	 runtime:0.0000000000
+
+----------     ALL     ----------
+
+CPU Kernel 	 runtime:0.0000000000
+GPU Kernel 	 runtime:0.4192931652
+Sequential 	 runtime:0.0000000000
+
+Data Alloc   runtime:0.0002708435
+
+Non-Matching CPU-GPU Outputs Beyond Error Threshold of 0.05 Percent: 8190
+
+Free memory  runtime:	0.0223450661
+===================================
+----------     GPU     ----------
+number of platforms is 2
+platform name is ARM Platform
+platform version is OpenCL 1.2 v1.r17p0-01rel0.a881d28363cdb20f0017ed13c980967e
+number of devices is 0
+device name is Mali-T628
+
+Init Array 	 runtime:0.2600519657
+Read Kernel  runtime:0.0001740456
+Kernels Init runtime:0.0694301128
+Memory Init  runtime:0.2578580379
+Prog Load    runtime:0.0938959122
+
+Kernels 	 runtime:0.3367285000:0.0621515000
+
+Launch Kernl runtime:0.4003229141
+Clean  up    runtime:0.0004761219
+
+---------Sequential CPU----------
+
+Sequential 	 runtime:0.0000000000
+
+----------     ALL     ----------
+
+CPU Kernel 	 runtime:0.0000000000
+GPU Kernel 	 runtime:0.4003229141
+Sequential 	 runtime:0.0000000000
+
+Data Alloc   runtime:0.0002310276
+
+Non-Matching CPU-GPU Outputs Beyond Error Threshold of 0.05 Percent: 8190
+
+Free memory  runtime:	0.0223960876
+===================================
+----------     GPU     ----------
+number of platforms is 2
+platform name is ARM Platform
+platform version is OpenCL 1.2 v1.r17p0-01rel0.a881d28363cdb20f0017ed13c980967e
+number of devices is 0
+device name is Mali-T628
+
+Init Array 	 runtime:0.2604320049
+Read Kernel  runtime:0.0001990795
+Kernels Init runtime:0.0685579777
+Memory Init  runtime:0.2435841560
+Prog Load    runtime:0.0940680504
+
+Kernels 	 runtime:0.3306155430:0.0619067500
+
+Launch Kernl runtime:0.3940417767
+Clean  up    runtime:0.0006129742
+
+---------Sequential CPU----------
+
+Sequential 	 runtime:0.0000000000
+
+----------     ALL     ----------
+
+CPU Kernel 	 runtime:0.0000000000
+GPU Kernel 	 runtime:0.3940417767
+Sequential 	 runtime:0.0000000000
+
+Data Alloc   runtime:0.0001919270
+
+Non-Matching CPU-GPU Outputs Beyond Error Threshold of 0.05 Percent: 8190
+
+Free memory  runtime:	0.0223670006
+===================================
+----------     GPU     ----------
+number of platforms is 2
+platform name is ARM Platform
+platform version is OpenCL 1.2 v1.r17p0-01rel0.a881d28363cdb20f0017ed13c980967e
+number of devices is 0
+device name is Mali-T628
+
+Init Array 	 runtime:0.2597620487
+Read Kernel  runtime:0.0001690388
+Kernels Init runtime:0.0686202049
+Memory Init  runtime:0.2470839024
+Prog Load    runtime:0.0937860012
+
+Kernels 	 runtime:0.3465372530:0.0617648760
+
+Launch Kernl runtime:0.4099879265
+Clean  up    runtime:0.0005640984
+
+---------Sequential CPU----------
+
+Sequential 	 runtime:0.0000000000
+
+----------     ALL     ----------
+
+CPU Kernel 	 runtime:0.0000000000
+GPU Kernel 	 runtime:0.4099879265
+Sequential 	 runtime:0.0000000000
+
+Data Alloc   runtime:0.0002210140
+
+Non-Matching CPU-GPU Outputs Beyond Error Threshold of 0.05 Percent: 8190
+
+Free memory  runtime:	0.0222818851
+===================================
