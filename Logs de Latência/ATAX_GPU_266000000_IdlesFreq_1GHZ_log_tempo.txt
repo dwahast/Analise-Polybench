@@ -30,7 +30,7 @@ Data Alloc   runtime:0.0002071857
 
 Non-Matching CPU-GPU Outputs Beyond Error Threshold of 0.05 Percent: 4095
 
-Free memory  runtime:	0.0208680630s
+Free memory  runtime:	0.0208680630
 ===================================
 ----------     GPU     ----------
 number of platforms is 2
@@ -64,7 +64,7 @@ Data Alloc   runtime:0.0001718998
 
 Non-Matching CPU-GPU Outputs Beyond Error Threshold of 0.05 Percent: 4095
 
-Free memory  runtime:	0.0210468769s
+Free memory  runtime:	0.0210468769
 ===================================
 ----------     GPU     ----------
 number of platforms is 2
@@ -98,7 +98,7 @@ Data Alloc   runtime:0.0001649857
 
 Non-Matching CPU-GPU Outputs Beyond Error Threshold of 0.05 Percent: 4095
 
-Free memory  runtime:	0.0209610462s
+Free memory  runtime:	0.0209610462
 ===================================
 ----------     GPU     ----------
 number of platforms is 2
@@ -132,7 +132,7 @@ Data Alloc   runtime:0.0002398491
 
 Non-Matching CPU-GPU Outputs Beyond Error Threshold of 0.05 Percent: 4095
 
-Free memory  runtime:	0.0209500790s
+Free memory  runtime:	0.0209500790
 ===================================
 ----------     GPU     ----------
 number of platforms is 2
@@ -166,7 +166,7 @@ Data Alloc   runtime:0.0001990795
 
 Non-Matching CPU-GPU Outputs Beyond Error Threshold of 0.05 Percent: 4095
 
-Free memory  runtime:	0.0209820271s
+Free memory  runtime:	0.0209820271
 ===================================
 ----------     GPU     ----------
 number of platforms is 2
@@ -200,7 +200,7 @@ Data Alloc   runtime:0.0002429485
 
 Non-Matching CPU-GPU Outputs Beyond Error Threshold of 0.05 Percent: 4095
 
-Free memory  runtime:	0.0210499763s
+Free memory  runtime:	0.0210499763
 ===================================
 ----------     GPU     ----------
 number of platforms is 2
@@ -234,7 +234,7 @@ Data Alloc   runtime:0.0001699924
 
 Non-Matching CPU-GPU Outputs Beyond Error Threshold of 0.05 Percent: 4095
 
-Free memory  runtime:	0.0209970474s
+Free memory  runtime:	0.0209970474
 ===================================
 ----------     GPU     ----------
 number of platforms is 2
@@ -268,7 +268,7 @@ Data Alloc   runtime:0.0002431870
 
 Non-Matching CPU-GPU Outputs Beyond Error Threshold of 0.05 Percent: 4095
 
-Free memory  runtime:	0.0211529732s
+Free memory  runtime:	0.0211529732
 ===================================
 ----------     GPU     ----------
 number of platforms is 2
@@ -302,7 +302,7 @@ Data Alloc   runtime:0.0001671314
 
 Non-Matching CPU-GPU Outputs Beyond Error Threshold of 0.05 Percent: 4095
 
-Free memory  runtime:	0.0217099190s
+Free memory  runtime:	0.0217099190
 ===================================
 ----------     GPU     ----------
 number of platforms is 2
@@ -336,7 +336,7 @@ Data Alloc   runtime:0.0001661777
 
 Non-Matching CPU-GPU Outputs Beyond Error Threshold of 0.05 Percent: 4095
 
-Free memory  runtime:	0.0211670399s
+Free memory  runtime:	0.0211670399
 ===================================
 ----------     GPU     ----------
 number of platforms is 2
@@ -370,7 +370,7 @@ Data Alloc   runtime:0.0001749992
 
 Non-Matching CPU-GPU Outputs Beyond Error Threshold of 0.05 Percent: 4095
 
-Free memory  runtime:	0.0210351944s
+Free memory  runtime:	0.0210351944
 ===================================
 ----------     GPU     ----------
 number of platforms is 2
@@ -404,7 +404,7 @@ Data Alloc   runtime:0.0002031326
 
 Non-Matching CPU-GPU Outputs Beyond Error Threshold of 0.05 Percent: 4095
 
-Free memory  runtime:	0.0210270882s
+Free memory  runtime:	0.0210270882
 ===================================
 ----------     GPU     ----------
 number of platforms is 2
@@ -438,7 +438,7 @@ Data Alloc   runtime:0.0001649857
 
 Non-Matching CPU-GPU Outputs Beyond Error Threshold of 0.05 Percent: 4095
 
-Free memory  runtime:	0.0211880207s
+Free memory  runtime:	0.0211880207
 ===================================
 ----------     GPU     ----------
 number of platforms is 2
@@ -472,7 +472,7 @@ Data Alloc   runtime:0.0002009869
 
 Non-Matching CPU-GPU Outputs Beyond Error Threshold of 0.05 Percent: 4095
 
-Free memory  runtime:	0.0211029053s
+Free memory  runtime:	0.0211029053
 ===================================
 ----------     GPU     ----------
 number of platforms is 2
@@ -506,7 +506,7 @@ Data Alloc   runtime:0.0001637936
 
 Non-Matching CPU-GPU Outputs Beyond Error Threshold of 0.05 Percent: 4095
 
-Free memory  runtime:	0.0210731030s
+Free memory  runtime:	0.0210731030
 ===================================
 ----------     GPU     ----------
 number of platforms is 2
@@ -540,7 +540,7 @@ Data Alloc   runtime:0.0002009869
 
 Non-Matching CPU-GPU Outputs Beyond Error Threshold of 0.05 Percent: 4095
 
-Free memory  runtime:	0.0212261677s
+Free memory  runtime:	0.0212261677
 ===================================
 ----------     GPU     ----------
 number of platforms is 2
@@ -574,7 +574,7 @@ Data Alloc   runtime:0.0001702309
 
 Non-Matching CPU-GPU Outputs Beyond Error Threshold of 0.05 Percent: 4095
 
-Free memory  runtime:	0.0211441517s
+Free memory  runtime:	0.0211441517
 ===================================
 ----------     GPU     ----------
 number of platforms is 2
@@ -608,7 +608,7 @@ Data Alloc   runtime:0.0002019405
 
 Non-Matching CPU-GPU Outputs Beyond Error Threshold of 0.05 Percent: 4095
 
-Free memory  runtime:	0.0211029053s
+Free memory  runtime:	0.0211029053
 ===================================
 ----------     GPU     ----------
 number of platforms is 2
@@ -642,7 +642,7 @@ Data Alloc   runtime:0.0002369881
 
 Non-Matching CPU-GPU Outputs Beyond Error Threshold of 0.05 Percent: 4095
 
-Free memory  runtime:	0.0210211277s
+Free memory  runtime:	0.0210211277
 ===================================
 ----------     GPU     ----------
 number of platforms is 2
@@ -676,7 +676,7 @@ Data Alloc   runtime:0.0001640320
 
 Non-Matching CPU-GPU Outputs Beyond Error Threshold of 0.05 Percent: 4095
 
-Free memory  runtime:	0.0213639736s
+Free memory  runtime:	0.0213639736
 ===================================
 ----------     GPU     ----------
 number of platforms is 2
@@ -710,7 +710,7 @@ Data Alloc   runtime:0.0001649857
 
 Non-Matching CPU-GPU Outputs Beyond Error Threshold of 0.05 Percent: 4095
 
-Free memory  runtime:	0.0211360455s
+Free memory  runtime:	0.0211360455
 ===================================
 ----------     GPU     ----------
 number of platforms is 2
@@ -744,7 +744,7 @@ Data Alloc   runtime:0.0002429485
 
 Non-Matching CPU-GPU Outputs Beyond Error Threshold of 0.05 Percent: 4095
 
-Free memory  runtime:	0.0211040974s
+Free memory  runtime:	0.0211040974
 ===================================
 ----------     GPU     ----------
 number of platforms is 2
@@ -778,7 +778,7 @@ Data Alloc   runtime:0.0002088547
 
 Non-Matching CPU-GPU Outputs Beyond Error Threshold of 0.05 Percent: 4095
 
-Free memory  runtime:	0.0211269855s
+Free memory  runtime:	0.0211269855
 ===================================
 ----------     GPU     ----------
 number of platforms is 2
@@ -812,7 +812,7 @@ Data Alloc   runtime:0.0002450943
 
 Non-Matching CPU-GPU Outputs Beyond Error Threshold of 0.05 Percent: 4095
 
-Free memory  runtime:	0.0211658478s
+Free memory  runtime:	0.0211658478
 ===================================
 ----------     GPU     ----------
 number of platforms is 2
@@ -846,7 +846,7 @@ Data Alloc   runtime:0.0001640320
 
 Non-Matching CPU-GPU Outputs Beyond Error Threshold of 0.05 Percent: 4095
 
-Free memory  runtime:	0.0211348534s
+Free memory  runtime:	0.0211348534
 ===================================
 ----------     GPU     ----------
 number of platforms is 2
@@ -880,7 +880,7 @@ Data Alloc   runtime:0.0002381802
 
 Non-Matching CPU-GPU Outputs Beyond Error Threshold of 0.05 Percent: 4095
 
-Free memory  runtime:	0.0211639404s
+Free memory  runtime:	0.0211639404
 ===================================
 ----------     GPU     ----------
 number of platforms is 2
@@ -914,7 +914,7 @@ Data Alloc   runtime:0.0001718998
 
 Non-Matching CPU-GPU Outputs Beyond Error Threshold of 0.05 Percent: 4095
 
-Free memory  runtime:	0.0211760998s
+Free memory  runtime:	0.0211760998
 ===================================
 ----------     GPU     ----------
 number of platforms is 2
@@ -948,7 +948,7 @@ Data Alloc   runtime:0.0002110004
 
 Non-Matching CPU-GPU Outputs Beyond Error Threshold of 0.05 Percent: 4095
 
-Free memory  runtime:	0.0211260319s
+Free memory  runtime:	0.0211260319
 ===================================
 ----------     GPU     ----------
 number of platforms is 2
@@ -982,7 +982,7 @@ Data Alloc   runtime:0.0002119541
 
 Non-Matching CPU-GPU Outputs Beyond Error Threshold of 0.05 Percent: 4095
 
-Free memory  runtime:	0.0211298466s
+Free memory  runtime:	0.0211298466
 ===================================
 ----------     GPU     ----------
 number of platforms is 2
@@ -1016,5 +1016,5 @@ Data Alloc   runtime:0.0002501011
 
 Non-Matching CPU-GPU Outputs Beyond Error Threshold of 0.05 Percent: 4095
 
-Free memory  runtime:	0.0216639042s
+Free memory  runtime:	0.0216639042
 ===================================
