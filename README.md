@@ -1,4 +1,4 @@
-# Analise-Polybench-Mali-T628
+# Analise Polybench em questões de Latência e Potência
 ### Analise do Benchmark Polybench-GPU na GPU Mali T628. Aplicado a variadas configurações de frequência da GPU (Device) como da CPU (Host).
   - (Analise Latência Mali) Analise de Latência dos Kernels da aplicação executação na Mali T628.
   - (Analise Energia Mali) Analise de Potência relacionada a frequência de Operação da Mali T628.
