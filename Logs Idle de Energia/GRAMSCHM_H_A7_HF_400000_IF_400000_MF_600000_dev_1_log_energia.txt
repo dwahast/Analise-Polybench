@@ -1,0 +1,86 @@
+make: Warning: File '../common.mk' has modification time 97295960 s in the future
+A15_Acumulada: 301.988
+A7_Acumulada: 82.7415
+GPU_Acumulada: 67.5342
+MEM_Acumulada: 221.563
+make: warning:  Clock skew detected.  Your build may be incomplete.
+
+real	19m31.129s
+user	60m58.442s
+sys	0m24.677s
+make: Warning: File '../common.mk' has modification time 97294789 s in the future
+A15_Acumulada: 310.469
+A7_Acumulada: 83.1351
+GPU_Acumulada: 67.7814
+MEM_Acumulada: 221.665
+make: warning:  Clock skew detected.  Your build may be incomplete.
+
+real	19m34.048s
+user	61m5.266s
+sys	0m25.175s
+make: Warning: File '../common.mk' has modification time 97293615 s in the future
+A15_Acumulada: 257.627
+A7_Acumulada: 82.6352
+GPU_Acumulada: 67.6868
+MEM_Acumulada: 225.144
+make: warning:  Clock skew detected.  Your build may be incomplete.
+
+real	1631376m7.104s
+user	61m6.595s
+sys	0m26.872s
+A15_Acumulada: 170.526
+A7_Acumulada: 82.3869
+GPU_Acumulada: 67.4086
+MEM_Acumulada: 217.958
+
+real	19m26.657s
+user	60m56.124s
+sys	0m25.158s
+A15_Acumulada: 265.815
+A7_Acumulada: 83.4662
+GPU_Acumulada: 68.4511
+MEM_Acumulada: 228.803
+
+real	19m45.005s
+user	61m37.987s
+sys	0m25.739s
+A15_Acumulada: 213.91
+A7_Acumulada: 82.9738
+GPU_Acumulada: 67.8156
+MEM_Acumulada: 221.224
+
+real	19m34.376s
+user	61m20.662s
+sys	0m25.655s
+A15_Acumulada: 270.85
+A7_Acumulada: 83.9359
+GPU_Acumulada: 68.6821
+MEM_Acumulada: 231.965
+
+real	19m49.076s
+user	61m52.557s
+sys	0m25.425s
+A15_Acumulada: 268.726
+A7_Acumulada: 83.5119
+GPU_Acumulada: 67.8719
+MEM_Acumulada: 227.16
+
+real	19m35.611s
+user	61m14.528s
+sys	0m25.652s
+A15_Acumulada: 273.883
+A7_Acumulada: 84.0005
+GPU_Acumulada: 68.6839
+MEM_Acumulada: 230.505
+
+real	19m48.915s
+user	61m55.357s
+sys	0m26.168s
+A15_Acumulada: 173.815
+A7_Acumulada: 82.8492
+GPU_Acumulada: 67.5849
+MEM_Acumulada: 220.108
+
+real	19m30.108s
+user	61m10.236s
+sys	0m25.977s

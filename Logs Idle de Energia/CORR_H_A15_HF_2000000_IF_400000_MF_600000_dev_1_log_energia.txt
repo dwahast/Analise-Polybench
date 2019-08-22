@@ -1,0 +1,80 @@
+A15_Acumulada: 208.681
+A7_Acumulada: 2.76763
+GPU_Acumulada: 3.82689
+MEM_Acumulada: 9.26002
+
+real	1m0.408s
+user	3m21.208s
+sys	0m0.307s
+A15_Acumulada: 213.875
+A7_Acumulada: 2.7491
+GPU_Acumulada: 3.8978
+MEM_Acumulada: 10.164
+
+real	1m1.359s
+user	3m24.621s
+sys	0m0.310s
+A15_Acumulada: 214.511
+A7_Acumulada: 2.69789
+GPU_Acumulada: 3.78412
+MEM_Acumulada: 9.2384
+
+real	0m59.714s
+user	3m18.512s
+sys	0m0.305s
+A15_Acumulada: 209.86
+A7_Acumulada: 2.68797
+GPU_Acumulada: 3.72022
+MEM_Acumulada: 9.0391
+
+real	0m58.489s
+user	3m20.523s
+sys	0m0.278s
+A15_Acumulada: 199.801
+A7_Acumulada: 2.26777
+GPU_Acumulada: 3.77003
+MEM_Acumulada: 8.77301
+
+real	1m0.016s
+user	3m21.493s
+sys	0m0.260s
+A15_Acumulada: 203.277
+A7_Acumulada: 1.80103
+GPU_Acumulada: 3.70855
+MEM_Acumulada: 8.08125
+
+real	0m58.305s
+user	3m20.026s
+sys	0m0.257s
+A15_Acumulada: 209.284
+A7_Acumulada: 1.78837
+GPU_Acumulada: 3.65027
+MEM_Acumulada: 8.01939
+
+real	0m57.937s
+user	3m15.930s
+sys	0m0.249s
+A15_Acumulada: 204.789
+A7_Acumulada: 1.81383
+GPU_Acumulada: 3.70907
+MEM_Acumulada: 7.98254
+
+real	0m58.541s
+user	3m18.049s
+sys	0m0.237s
+A15_Acumulada: 203.942
+A7_Acumulada: 1.77938
+GPU_Acumulada: 3.64558
+MEM_Acumulada: 7.95202
+
+real	0m58.049s
+user	3m18.055s
+sys	0m0.244s
+A15_Acumulada: 205.497
+A7_Acumulada: 2.30048
+GPU_Acumulada: 3.71591
+MEM_Acumulada: 8.51285
+
+real	0m58.254s
+user	3m20.940s
+sys	0m0.236s

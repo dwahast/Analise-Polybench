@@ -1,0 +1,100 @@
+make: Warning: File '../common.mk' has modification time 97378501 s in the future
+A15_Acumulada: 0.510212
+A7_Acumulada: 0.556222
+GPU_Acumulada: 0.479248
+MEM_Acumulada: 0.440867
+make: warning:  Clock skew detected.  Your build may be incomplete.
+
+real	0m3.134s
+user	0m0.800s
+sys	0m1.564s
+make: Warning: File '../common.mk' has modification time 97378498 s in the future
+A15_Acumulada: 0.496472
+A7_Acumulada: 0.411477
+GPU_Acumulada: 1.45764
+MEM_Acumulada: 0.617885
+make: warning:  Clock skew detected.  Your build may be incomplete.
+
+real	0m3.181s
+user	0m0.872s
+sys	0m1.512s
+make: Warning: File '../common.mk' has modification time 97378495 s in the future
+A15_Acumulada: 0.47632
+A7_Acumulada: 0.438744
+GPU_Acumulada: 0.798995
+MEM_Acumulada: 0.453958
+make: warning:  Clock skew detected.  Your build may be incomplete.
+
+real	0m3.133s
+user	0m0.830s
+sys	0m1.509s
+make: Warning: File '../common.mk' has modification time 97378492 s in the future
+A15_Acumulada: 0.43968
+A7_Acumulada: 0.419081
+GPU_Acumulada: 0.908723
+MEM_Acumulada: 0.445481
+make: warning:  Clock skew detected.  Your build may be incomplete.
+
+real	0m3.141s
+user	0m0.870s
+sys	0m1.477s
+make: Warning: File '../common.mk' has modification time 97378489 s in the future
+A15_Acumulada: 0.43247
+A7_Acumulada: 0.406164
+GPU_Acumulada: 1.32792
+MEM_Acumulada: 0.556301
+make: warning:  Clock skew detected.  Your build may be incomplete.
+
+real	0m3.195s
+user	0m0.833s
+sys	0m1.506s
+make: Warning: File '../common.mk' has modification time 97378486 s in the future
+A15_Acumulada: 0.478413
+A7_Acumulada: 0.438744
+GPU_Acumulada: 0.872056
+MEM_Acumulada: 0.441861
+make: warning:  Clock skew detected.  Your build may be incomplete.
+
+real	0m3.162s
+user	0m0.873s
+sys	0m1.486s
+make: Warning: File '../common.mk' has modification time 97378482 s in the future
+A15_Acumulada: 0.493724
+A7_Acumulada: 0.41046
+GPU_Acumulada: 0.594961
+MEM_Acumulada: 0.65414
+make: warning:  Clock skew detected.  Your build may be incomplete.
+
+real	0m3.177s
+user	0m0.885s
+sys	0m1.481s
+make: Warning: File '../common.mk' has modification time 97378479 s in the future
+A15_Acumulada: 0.46716
+A7_Acumulada: 0.423424
+GPU_Acumulada: 1.21003
+MEM_Acumulada: 0.527763
+make: warning:  Clock skew detected.  Your build may be incomplete.
+
+real	0m3.170s
+user	0m0.839s
+sys	0m1.538s
+make: Warning: File '../common.mk' has modification time 97378476 s in the future
+A15_Acumulada: 0.451689
+A7_Acumulada: 0.433314
+GPU_Acumulada: 0.981731
+MEM_Acumulada: 0.39467
+make: warning:  Clock skew detected.  Your build may be incomplete.
+
+real	0m3.161s
+user	0m0.905s
+sys	0m1.455s
+make: Warning: File '../common.mk' has modification time 97378473 s in the future
+A15_Acumulada: 0.466356
+A7_Acumulada: 0.403878
+GPU_Acumulada: 0.683267
+MEM_Acumulada: 0.632399
+make: warning:  Clock skew detected.  Your build may be incomplete.
+
+real	0m3.160s
+user	0m0.864s
+sys	0m1.484s
